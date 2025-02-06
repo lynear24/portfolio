@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Showcases on Nyle Maliwat&#39;s Portfolio</title>
+    <link>https://lynear24.github.io/portfolio/showcase/</link>
+    <description>Recent content in Showcases on Nyle Maliwat&#39;s Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://lynear24.github.io/portfolio/showcase/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Socialite</title>
+      <link>https://lynear24.github.io/portfolio/showcase/socialite/</link>
+      <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://lynear24.github.io/portfolio/showcase/socialite/</guid>
+      <description>A user-friendly photo-sharing and semi-social media networking platform developed in Angular, NodeJS, and MongoDB. This was our project during the 3rd year subject ADVDBASE which focuses on NoSQL databases, primarily MongoDB. This was the application that was produced during the final period, featuring a CRUD (Control Read Update Delete) application using Angular as front-end; and NodeJS + MongoDB for back-end.
+This is our project video showcasing the application and the code.</description>
+    </item>
+    
+    <item>
+      <title>Vue.js Menu Management App</title>
+      <link>https://lynear24.github.io/portfolio/showcase/wcserver/</link>
+      <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://lynear24.github.io/portfolio/showcase/wcserver/</guid>
+      <description>Restaurant menu management application made in Vue.js made for our final project in WCSERVER This was our project during the 2nd year subject WCSERVER which focuses on creating applications in the Web Framework Vue.js. The application also features a CRUD (Control Read Update Delete) back-end using NodeJS and MongoDB.
+This is our project video showcasing the application development.
+  </description>
+    </item>
+    
+  </channel>
+</rss>
